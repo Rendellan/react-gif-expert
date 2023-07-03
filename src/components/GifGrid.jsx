@@ -1,6 +1,6 @@
 
 import { GifGridItem } from "./GifGridItem";
-import { useFetchGifs } from "../../hooks/useFetchGifs";
+import { useFetchGifs } from "../hooks/useFetchGifs"
 
 
 export const GifGrid = ( {category} ) => {
